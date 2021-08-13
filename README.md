@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Usama Tahir.</h2>
+<h2> I'm Usama Tahir !</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
