@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studed Software Engineering at RIPHAH International University.
+- 🎓 &nbsp; Studed Software Engineering at RIPHAH International University(2021).
 - 🌱 &nbsp; Learning more about Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Cricket and Football as hobbies/side hustles.
 
